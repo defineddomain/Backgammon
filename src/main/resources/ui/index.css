@@ -1,0 +1,21 @@
+.dice {
+    width: 32px;
+    height: 32px;
+    border: #663300 5px solid;
+    padding: 10px;
+    font-size: 24px;
+    margin: 5px;
+    text-align: left;
+}
+
+#left-dice {
+    float: left;
+    width: 20%;
+    height: 280px;
+}
+
+#board {
+    float: left;
+    width: 50%;
+    height: 280px;
+}
